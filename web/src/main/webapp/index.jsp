@@ -19,7 +19,7 @@
     First webJenkins Server.
   </p>
   <p>
-    deployed
+    deployed and signed off
   </p>
 </body>
 </html>
